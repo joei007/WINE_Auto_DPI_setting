@@ -71,7 +71,7 @@ it will use `xrdb` as a fallback if it happens to be present.
 ## Installation / usage
 
 1. Save `wine-auto-dpi-setting.sh` somewhere permanent on disk (e.g.
-   `~/Scripts/wine-auto-dpi-setting.sh`).
+   `~/Scripts/wine-auto-dpi.sh`).
 2. Make it executable:
    ```bash
    chmod +x ~/Scripts/wine-auto-dpi-setting.sh

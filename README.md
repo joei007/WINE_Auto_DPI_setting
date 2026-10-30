@@ -1,4 +1,4 @@
-# wine-auto-dpi-setting
+# wine-auto-dpi
 
 A Bash pre-run script for [Bottles](https://usebottles.com/) (Flatpak) that
 automatically sets the correct Wine DPI for every program launch, so Windows
